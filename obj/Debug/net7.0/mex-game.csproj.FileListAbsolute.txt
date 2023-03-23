@@ -1,0 +1,15 @@
+/home/ericluizlucas/Documents/study/dotnet/mex-game/bin/Debug/net7.0/mex-game
+/home/ericluizlucas/Documents/study/dotnet/mex-game/bin/Debug/net7.0/mex-game.deps.json
+/home/ericluizlucas/Documents/study/dotnet/mex-game/bin/Debug/net7.0/mex-game.runtimeconfig.json
+/home/ericluizlucas/Documents/study/dotnet/mex-game/bin/Debug/net7.0/mex-game.dll
+/home/ericluizlucas/Documents/study/dotnet/mex-game/bin/Debug/net7.0/mex-game.pdb
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/mex-game.csproj.AssemblyReference.cache
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/mex-game.GeneratedMSBuildEditorConfig.editorconfig
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/mex-game.AssemblyInfoInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/mex-game.AssemblyInfo.cs
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/mex-game.csproj.CoreCompileInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/mex-game.dll
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/refint/mex-game.dll
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/mex-game.pdb
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/mex-game.genruntimeconfig.cache
+/home/ericluizlucas/Documents/study/dotnet/mex-game/obj/Debug/net7.0/ref/mex-game.dll
